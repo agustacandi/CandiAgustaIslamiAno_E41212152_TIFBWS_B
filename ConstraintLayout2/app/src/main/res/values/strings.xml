@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Constraint Layout</string>
+    <string name="login">Login</string>
+    <string name="icon_polije">Icon Polije</string>
+    <string name="input_email">Input Email...</string>
+    <string name="input_password">Input Password...</string>
+</resources>
